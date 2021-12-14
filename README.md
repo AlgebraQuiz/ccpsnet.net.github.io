@@ -1,4 +1,4 @@
-# 3kh0.github.io<br>
+#King Zerk<br>
 
 ## Badges<br>
 
@@ -11,24 +11,3 @@
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/3kh0/3kh0.github.io?label=Issues&logo=github">
 <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/3kh0/3kh0.github.io?color=yellow&label=Pull%20Requests&logo=github">
   </p>
-
-## What is this?
-
-This is the source code for my website. <br>
-Feel free to explore it! <br>
-If you need help, you can open a issue [here](https://github.com/3kh0/3kh0.github.io/issues/new)!<br>
-I hope this helps!<br>
-
-## Current projects
-
-Currently we are revamping the whole site. We are adding CSS to the page!<br>
-You can view the project [here](https://github.com/3kh0/3kh0.github.io/projects/1)!
-
-### Contributors:
-> [@Vexify4](https://github.com/Vexify4)
-
-> [@Echo](https://github.com/3kh0)
-
-> [@Orion](https://github.com/the-0r10n)
-
-If you would like to help make a fork and show us what you got!
